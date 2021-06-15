@@ -323,7 +323,7 @@ figure{
 
 .container{
     /*border: 1px solid red; sirveppara depurar estilos*/
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
     /*heredaremos del padre en este caso header*/
     display: inherit;
